@@ -8,6 +8,6 @@ Features:
 
 ~Rotate images at a desired angle.
 
-~Apply b&w filter to enhance or modify images.
+~Apply b&w filter to modify images.
 
 ~Save the edited images to a specified output directory.
