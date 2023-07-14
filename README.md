@@ -1,6 +1,6 @@
 # Photo-Editor
 
-This is a simple command-line photo editor implemented in Python. The application allows you to perform basic image editing operations, such as cropping, revolving, and applying filter to images.
+This is a simple command-line photo editor implemented in Python. The application allows you to perform basic image editing operations, such as cropping, rotating, and applying filter to images.
 
 Features:
 
